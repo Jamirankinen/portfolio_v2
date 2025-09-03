@@ -2,42 +2,28 @@ const projects = {
   heading: `Things I've Worked on`,
   list: [
     {
-      image: "/assets/projects/PIAIC.png",
+      image: "/assets/projects/portfolio_v2.png",
       label: "Featured Project",
-      title: "PIAIC Web/Portal",
+      title: "Portfolio v2",
       description:
-        "The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.",
-      techs: ["React Js", "Express Js", "Mongodb"],
+        "Second version of my portfolio to showcase my projects with different style and idea all together.",
+      techs: ["Javascript", "SCSS", "Next.js"],
     },
     {
-      image: "/assets/projects/digitalplattform.png",
+      image: "/assets/projects/portfolio_v1.png",
       label: "Featured Project",
-      title: "Digital Plattform",
+      title: "First portfolio",
       description:
-        "A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media",
-      techs: ["React Js", "Express Js", "GraphQl/Apollo", "Mongodb"],
+        "First version of my portfolio published online for job searching.",
+      techs: ["React", "Vite.js", "HTML5/CSS", "Netlify"],
     },
     {
-      image: "/assets/projects/declinica.png",
+      image: "/assets/projects/chat-app.webp",
       label: "Featured Project",
-      title: "Declinica",
+      title: "Chat App",
       description:
-        "A Decentralised blockchain Designed for the medical community.",
-      techs: ["React Js", "Web3 Js"],
-    },
-    {
-      image: "/assets/projects/rolazdoro.png",
-      label: "Featured Project",
-      title: `Rolaz D'oro`,
-      description: `One of the main objective of Rolaz D'ORO is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
-      techs: ["React Js", "Web3 Js"],
-    },
-    {
-      image: "/assets/projects/chainracers.png",
-      label: "Featured Project",
-      title: `Chainracers`,
-      description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
-      techs: ["React Js", "Web3 Js"],
+        "A real-time chat application with live messaging, user presence indicators, and smooth UI interactions. Built with WebSockets for instant communication and structured using modular React components. Designed to be fully responsive with clean, modern styling. Demonstrates strong frontend skills in real-time data handling and UX design.",
+      techs: ["Typescript", "Node.js", "Clerk", "Convex"],
     },
   ],
 };
