@@ -2,63 +2,27 @@ const works = {
   heading: "My Work Experiences",
   experiences: [
     {
-      company: "Digital Marknadsplan",
-      role: "Full Stack Developer",
-      duration: "Remote-Job | May 2020 - Present",
+      company: "Diilimurkku Oy",
+      role: "React Developer intern",
+      duration: "Remote-Job | Nov 2024 - March 2025",
       points: [
-        `A Swedish based Company hired my developers crew where we gave the
-    most part of our development from just React till the road of Nodejs,
-    GraphQL, Apollo and many more techs.`,
+        `A start-up company where I completed my internship as a React Dev. Developing company's websites using React, Typescript, HTML, CSS and some Next.js. Learned a lot about working in a agile environment using Slack for communication, Jira for task management and CD and CI methologies.`,
       ],
     },
     {
-      company: "Daily Cart",
-      role: "Co Founder",
-      duration: "Onsite | Jun 2019 - Jun 2021",
+      company: "Gigantti Oy",
+      role: "Salesman",
+      duration: "Onsite | May 2021 - Sep 2022",
       points: [
-        `My First startup in which we developed Daily Cart App, My Role was
-                developing whole technical side like Web, Mobile Android/IOS, server,
-                And there were many Applications such as User Mobile App, Vendor App,
-                Rider App, User web, Admin Panel, So by hiring one more Developer I
-                made those all things done in one n half year.`,
+        `Worked as an B2C and B2B salesman at Gigantti selling mostly tech product, different services and subscriptions. Learned to handle customer data with two different platforms.`,
       ],
     },
     {
-      company: "Upwork & Fiver",
-      role: "Full Stack Developer",
-      duration: "Remote | Jan 2019 - May 2020",
+      company: "Puolustusvoimat",
+      role: "Soldier",
+      duration: "Onsite | Jan 2020 - Dec 2020",
       points: [
-        `Worked as a freelancer on Upwork & Fiver for more than 1.5 year and
-                worked on countless projects every time with new competition and tech
-                including blockchain and Javascript.`,
-      ],
-    },
-    {
-      company: "PIAIC",
-      role: "Teaching Assistant",
-      duration: "Onsite | Sep 2018 - Jan 2019",
-      points: [
-        "Cloud Computing Teacher at PIAIC for 4 months roughly",
-        "Main Courses I was assisting were - Web Development & Cloud Computing",
-      ],
-    },
-    {
-      company: "Panacloud",
-      role: "MERN Developer",
-      duration: "Onsite | Sep 2018 - Mar 2019",
-      points: [
-        `Worked for almost 8 months with the most efficient team. There I got
-                experience on working on Pakistan’s Presidential Program PIAIC I’m
-                from the base developers of that Program.`,
-      ],
-    },
-    {
-      company: "Mantra Solutions",
-      role: "Junior Developer",
-      duration: "Onsite | Jul 2018 - Nov 2018",
-      points: [
-        `I worked there for almost 5 months as Hybrid Mobile Application
-                Development on Ionic/Cordova`,
+        `Completed my 1 year mandatory military service gaining leadership education and hands on experience. Achieved rank of an officer Second lieutenant later on 2025 got promoted to lieutenant after attending to military rehearsals over the years`,
       ],
     },
   ],
