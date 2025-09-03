@@ -10,6 +10,14 @@ const works = {
       ],
     },
     {
+      company: "Outo ry",
+      role: "Event Coordinator/Vice Chairman",
+      duration: "Onsite | Jan 2022 - Dec 2023",
+      points: [
+        `Join my Uni's student organisation and had a role of an event coordinator and Arranged plenty of different student events and worked closely with other businesses to make them happen. Also I was responsible for the social and digital marketing for the student organisation`,
+      ],
+    },
+       {
       company: "Gigantti Oy",
       role: "Salesman",
       duration: "Onsite | May 2021 - Sep 2022",
