@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from "react";
 
 const consoleMyName = () => {
-    console.log(`
+  console.log(`
   Designed and Developed By www.muneebwasikhan.com
   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
@@ -18,12 +18,12 @@ const consoleMyName = () => {
   MMMM____MMMMMMMMMMMMMMMM____MM____MMMMMM____MMM
   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-  `)
-  }
+  `);
+};
 
 const WaterMark = () => {
-    useEffect(consoleMyName, [])
-    return <></>
-}
+  useEffect(consoleMyName, []);
+  return <></>;
+};
 
-export default React.memo(WaterMark)
+export default React.memo(WaterMark);

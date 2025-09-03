@@ -1,15 +1,11 @@
-import { useEffect } from 'react'
-import PropTypes from 'prop-types'
-
+import { useEffect } from "react";
+import PropTypes from "prop-types";
 
 import { useDencrypt } from "use-dencrypt-effect";
 
 // const values = ["useDencrypt", "Customizable", "React Hook", "Text Effect"];
 
-const DecryptText = ({
-    values = ['Empty'],
-    delay = 5000
-}) => {
+const DecryptText = ({ values = ["Empty"], delay = 5000 }) => {
   const { result, dencrypt } = useDencrypt();
 
   useEffect(() => {
@@ -27,6 +23,6 @@ const DecryptText = ({
   return <>{result || values[0]}</>;
 };
 
-DecryptText.propTypes = {}
+DecryptText.propTypes = {};
 
-export default DecryptText
+export default DecryptText;

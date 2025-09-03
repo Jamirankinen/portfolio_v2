@@ -24,7 +24,7 @@ const mapsContribution = {
     views in really less time.
     `,
       iframe: "https://www.youtube.com/embed/QyIWc_OBSjY?start=1",
-      iframeTitle: 'YouTube video player',
+      iframeTitle: "YouTube video player",
     },
   ],
 };
