@@ -37,7 +37,7 @@ const mySelf = {
         'PWA/SPA',
         'AWS',
     ],
-    image: '/assets/profile1.jpg',
+    image: '/assets/profile1.webp',
 }
 
 export default mySelf
