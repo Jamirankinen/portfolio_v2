@@ -2,18 +2,14 @@ const mySelf = {
     heading: 'My Portfolio',
     paragraphs: [
         `
-        Hello! My name is Muneeb Khan, I like creating new things for internet. From a younger age, I have been interested in programming, as a kid most of my time I've spent in inspect element playing with colors and codes generating loops for sending infinite messages, cracking locked screen overflows and many more. so finally at the age of 16 I decided to convert this passion into career.`,
+        Hello! My name is Jami Rankinen, a 25-year-old Finnish guy with a passion for building things on the web. My journey into coding started out of curiosity, tweaking websites, experimenting with layouts, and slowly realizing how much I enjoy turning ideas into real, working projects. That curiosity grew into something more, and now I’m actively pursuing my first professional role in IT.`,
         `
-        It is a way to become more crafty with my ideas and explore the endless possibilities in the world of programming.`,
+        I mainly focus on frontend development, but I’m also open to exploring full-stack and backend work as I keep growing. During my first professional experience in frontend development, I got hands-on with TypeScript, HTML, CSS, and JavaScript, while working in a team environment that used CI/CD pipelines, Jira for task management, and Slack for communication. That short time taught me a lot about collaboration and modern workflows, and it motivated me to keep pushing further.`,
         `
-        Besides, Programming I'm a passionate photographer and a traveller.
-        A First Pakistani who actually covered most of the 360 google street view of city Karachi with heighest GSV contribution in all over Pakistan it helped more than 42 Million people till now.`,
+        Right now, my strongest tech stack includes React, TypeScript, Next.js, Vite.js, HTML, and CSS, and I’m continuously learning more — from Tailwind CSS and Vue.js to improving my JavaScript and design skills with Canva and Figma. I also enjoy working on SEO and web app development, and I’m always looking for opportunities where I can put these skills to good use.`,
         `
-        Coming back to Programming over the time I've delivered projects to many happy cients over globe and it gave me experience for working with many different people of different culture.
-        From local software house to Fiverr, Fiverr to Upwork and gradually towards international companies.`,
-        `
-        I am extremely observant when it comes to the breakdown of certain things. As being a crafty person I mostly endup solving too complex issues in less time.
-        `,
+        Outside of coding, I’d describe myself as a friendly, motivated, and athletic nature lover. I train regularly in Muay Thai, calisthenics, climbing, running, and gym, and my biggest passion outside of tech is the mountains — I love traveling, hiking, and being close to nature. I’m also very social, enjoy spending time with friends, and I’m always open to new experiences and challenges.`,
+        
         `
         To test my skills to the fullest would be an amazing experience, an environment where I would learn more and polish my skills more further would be an ideal one for me. Because I believe that there is always room to learn something new and to say no to a new opportunity would not be wise at all.
         Feel free to communicate.`,
