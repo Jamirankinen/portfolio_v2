@@ -14,11 +14,11 @@ const header = {
     ],
     rightBtn: {
         label: 'Curriculum Vitae | CV',
-        onClick: () => openLink('assets/cv.pdf')
+        onClick: () => openLink('assets/CV_english.pdf')
     },
     logo: {
-        src: '/assets/photo-logo.png',
-        alt: 'muneebwasikhan'
+        src: '/assets/photo-logo1.png',
+        alt: 'jamirankinen'
     },
     handleIconClick: () => scrollTo('home'),
     handleItemSelect: (menu) => scrollTo(menu.id),
