@@ -8,8 +8,8 @@ const nextConfig = {
   swcMinify: true,
   experimental: {
     images: {
-      loader: 'imgix',
-      path: 'public/assets/portfolio.gif',
+      loader: "imgix",
+      path: "public/assets/portfolio.gif",
       unoptimized: true,
     },
   },
@@ -17,6 +17,6 @@ const nextConfig = {
     dest: "public",
     runtimeCaching,
   },
-}
+};
 
 module.exports = withPWA(nextConfig);
