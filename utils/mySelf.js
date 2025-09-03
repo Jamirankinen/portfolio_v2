@@ -24,16 +24,16 @@ const mySelf = {
     techList1: [
         'JavaScript/TypeScript',
         'React.js/Native',
-        'Express.js',
+        'HMTL/CSS',
         'Node.js',
-        'Firestore',
+        'Firebase',
         'MongoDB'
     ],
     techList2: [
-        'Web3.js',
-        'Solidity',
-        'Ionic',
-        'Cordova',
+        'Jira',
+        'Git',
+        'GitHub',
+        'Netlify',
         'PWA/SPA',
         'AWS',
     ],
