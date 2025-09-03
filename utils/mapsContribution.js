@@ -1,13 +1,10 @@
 const mapsContribution = {
-  heading: `GSV Contribution`,
+  heading: `Education`,
   data: [
     {
-      logo: "/assets/streeviewtrusted.png",
-      title: "Google Street View",
-      description: `Covered most of the 360
-    Street View of Karachi,
-    and the highest 360
-    Contribution in Pakistan.`,
+      logo: "/assets/oamk.png",
+      title: "Oulu University of Applied Science",
+      description: `Bachelor in Business and Information Systems`,
       paragraph: `
     If we look over Pakistan's Map
     there're actually very few 360

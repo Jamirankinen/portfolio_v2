@@ -8,7 +8,7 @@ const header = {
     { title: "My Work", id: "my-work" },
     { title: "Reviews", id: "reviews" },
     { title: "Certifications", id: "certifications" },
-    { title: "Contribution", id: "contributions" },
+    { title: "Education", id: "contributions" },
     { title: "Contact", id: "contact" },
   ],
   rightBtn: {
