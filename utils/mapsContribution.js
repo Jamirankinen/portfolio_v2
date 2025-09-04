@@ -6,20 +6,7 @@ const mapsContribution = {
       title: "Oulu University of Applied Science",
       description: `Bachelor in Business and Information Systems`,
       paragraph: `
-    If we look over Pakistan's Map
-    there're actually very few 360
-    Street View blue lines over the
-    map, and as I live in Karachi
-    there So I added 360 map view of
-    the main areas of Karachi which
-    helped a lot of people I
-    successfully covered more than
-    500 KM of 360 View of Karachi
-    which is actually the most 360
-    GSV's contribution in Pakistan.
-    and it already got Millions of
-    views in really less time.
-    `,
+    May 2025 I graduated from Oulu University of Applied Science as an Bachelor in Business and Information Systems focusing in multiple programming languages from Frontend all the way till Backend. I was part of many projects with real-life clients and worked in agile environments during my time at the Uni. Decided to hone my skills more in the Frontend sector including Web Development, Web Apps, Digital marketing, SEO and website optimization. Even after graduating I have kept working on honing my skills every day to become a better developer overall.`,
       iframe: "https://www.youtube.com/embed/QyIWc_OBSjY?start=1",
       iframeTitle: "YouTube video player",
     },

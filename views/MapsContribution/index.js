@@ -30,21 +30,6 @@ const MapsContribution = ({ data: { heading, data } }) => {
                 <div data-aos="zoom-in-right" className="mk-box-para">
                   {item.paragraph}
                 </div>
-                <div
-                  data-aos="zoom-in-left"
-                  className="mk-box-iframe-wrapper mk-assets-hover-filter"
-                >
-                  <iframe
-                    width="560"
-                    height="315"
-                    className="mk-box-iframe"
-                    src={item.iframe}
-                    title={item.iframeTitle}
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                  ></iframe>
-                </div>
               </div>
             </div>
           ))}
